@@ -16,7 +16,7 @@ This PowerShell script allows Administrators to easily enable, disable, or check
 
 To use this script, you must have administrative privileges on your Windows system.
 
-#### **Disable Browser Modes** (`-d|--disable`)
+### **Disable Browser Modes** (`-d|--disable`)
 
 Disables the incognito/private mode for specified browsers. (Defaults to `all` without arguments.)
 ```powershell
@@ -24,7 +24,7 @@ Disables the incognito/private mode for specified browsers. (Defaults to `all` w
 .\incognito.ps1 --disable [chrome|edge|firefox|all]
 ```
 
-#### **Enable Browser Modes** (`-e|--enable`)
+### **Enable Browser Modes** (`-e|--enable`)
 
 Enables the incognito/private mode for specified browsers. (Defaults to `all` without arguments.)
 ```powershell
@@ -32,7 +32,7 @@ Enables the incognito/private mode for specified browsers. (Defaults to `all` wi
 .\incognito.ps1 --enable [chrome|edge|firefox|all]
 ```
 
-#### **Check Browser Mode Status** (`-c|--check`)
+### **Check Browser Mode Status** (`-c|--check`)
 
 Checks whether the incognito/private mode is enabled or disabled for specified browsers. (Defaults to `all` without arguments.)
 ```powershell
@@ -40,7 +40,7 @@ Checks whether the incognito/private mode is enabled or disabled for specified b
 .\incognito.ps1 --check [chrome|edge|firefox|all]
 ```
 
-#### **Help**
+### **Help**
 
 Displays usage information.
 ```powershell
