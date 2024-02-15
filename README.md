@@ -40,7 +40,7 @@ Checks whether the incognito/private mode is enabled or disabled for specified b
 .\incognito.ps1 --check [chrome|edge|firefox|all]
 ```
 
-### **Help**
+### **Help** (`-h|--help`)
 
 Displays usage information.
 ```powershell
