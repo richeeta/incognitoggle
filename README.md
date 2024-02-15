@@ -10,7 +10,7 @@ This PowerShell script allows Administrators to easily enable, disable, or check
 
 - **Disable Browser Modes**: Prevent users from using private browsing/incognito modes.
 - **Enable Browser Modes**: Allow users to use private browsing/incognito modes.
-- **Check Browser Mode Status**: Check if a browser's private browsing/igcognito mode is enabled or disabled.
+- **Check Browser Mode Status**: Check if a browser's private browsing/incognito mode is enabled or disabled.
 
 ## Usage
 
